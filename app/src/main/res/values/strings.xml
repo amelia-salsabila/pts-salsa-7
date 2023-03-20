@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">ptstugas</string>
+    <string-array name="movies_name">
+        <item> Wakanda Forever </item>
+
+        <item> Avangers Endgame </item>
+
+        <item> Avatar 2 </item>
+
+        <item> Jalan Yang Jauh Jangan Lupa Pulang </item>
+
+        <item> Mummies </item>
+
+        <item> Qodrat </item>
+
+        <item> Star Waers : The Force Awakens </item>
+
+        <item> Harry Potter and The Deathly Hallows </item>
+
+        <item> Coco </item>
+
+        <item> Doctor Strange </item>
+
+        <item> Tokyo Revengers </item>
+
+        <item> My Id Is Gangnam Beauty </item>
+
+        <item> Eternals </item>
+    </string-array>
+
+    <string-array name="movie_description">
+        //wakanda
+        <item> 2022 </item>
+        //avangers endgame
+        <item> 2019 </item>
+        //avatar2
+        <item> 2022 </item>
+        //jalanygjauh
+        <item> 2023 </item>
+        //mummies
+        <item> 2023 </item>
+        //qodrat
+        <item> 2022 </item>
+        //marveltheforceawakens
+        <item> 2015 </item>
+        //deathlyhallow
+        <item> 2010 </item>
+        //coco
+        <item> 2017 </item>
+        //doctorstrange
+        <item> 2016 </item>
+        //tokyorevenger
+        <item> 2017 </item>
+        //myidisgangnambeauty
+        <item> 2018 </item>
+        //eternals
+        <item> 2021 </item>
+
+    </string-array>
+
+    <integer-array name="movies_poster">
+        <item>@drawable/wakanda</item>
+        <item>@drawable/avangerendgame</item>
+        <item>@drawable/avatar</item>
+        <item>@drawable/jalanygjauh</item>
+        <item>@drawable/mummies</item>
+        <item>@drawable/qodrat</item>
+        <item>@drawable/tforsawa</item>
+        <item>@drawable/andthedeathlyhallows</item>
+        <item>@drawable/coco</item>
+        <item>@drawable/doctorstrange</item>
+        <item>@drawable/tokyorevengers</item>
+        <item>@drawable/myidisgangnambeauty</item>
+        <item>@drawable/etesnals</item>
+    </integer-array>
+</resources>
